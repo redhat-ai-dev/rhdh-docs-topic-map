@@ -35,214 +35,214 @@ Topics:
   Topics:
   - Name: About Red Hat Developer Hub
     File: master
-    WebpageID: about-rhdh
+    WebpageID: about_red_hat_developer_hub
 - Name: Adoption Insights
   Dir: observability_adoption-insights-in-rhdh
   Topics:
   - Name: Adoption Insights in Red Hat Developer Hub
     File: master
-    WebpageID: adoption-insights-in-rhdh
+    WebpageID: adoption_insights_in_red_hat_developer_hub
 - Name: Additional Capabilities
   Dir: explore_preview-of-emerging-capabilities
   Topics:
   - Name: Explore preview of emerging and supplemental capabilities
     File: master
-    WebpageID: preview-of-emerging-capabilities
+    WebpageID: explore_preview_of_emerging_and_supplemental_capabilities
 - Name: Audit Log
   Dir: observability_audit-logs-in-rhdh
   Topics:
   - Name: Audit logs in Red Hat Developer Hub
     File: master
-    WebpageID: audit-logs-in-rhdh
+    WebpageID: audit_logs_in_red_hat_developer_hub
 - Name: Authentication
   Dir: control-access_authentication-in-rhdh
   Topics:
   - Name: Authentication in Red Hat Developer Hub
     File: master
-    WebpageID: authentication-in-rhdh
+    WebpageID: authentication_in_red_hat_developer_hub
 - Name: Authorization
   Dir: control-access_authorization-in-rhdh
   Topics:
   - Name: Authorization in Red Hat Developer Hub
     File: master
-    WebpageID: authorization-in-rhdh
+    WebpageID: authorization_in_red_hat_developer_hub
 - Name: Configuring
   Dir: configure_configuring-rhdh
   Topics:
   - Name: Configuring Red Hat Developer Hub
     File: master
-    WebpageID: configuring-rhdh
+    WebpageID: configuring_red_hat_developer_hub
 - Name: Customizing
   Dir: configure_customizing-rhdh
   Topics:
   - Name: Customizing Red Hat Developer Hub
     File: master
-    WebpageID: customizing-rhdh
+    WebpageID: customizing_red_hat_developer_hub
 - Name: Diagnostic Data Collection
   Dir: observe_diagnostic-data-collection
   Topics:
   - Name: Collect diagnostic data to streamline support resolution
     File: master
-    WebpageID: diagnostic-data-collection
+    WebpageID: collect_diagnostic_data_to_streamline_support_resolution
 - Name: Developer Lightspeed
   Dir: integrate_interacting-with-developer-lightspeed-for-rhdh
   Topics:
   - Name: Interacting with Red Hat Developer Lightspeed for Red Hat Developer Hub
     File: master
-    WebpageID: interacting-with-developer-lightspeed-for-rhdh
+    WebpageID: interacting_with_red_hat_developer_lightspeed_for_red_hat_developer_hub
 - Name: Develop and Deploy Plugins
   Dir: extend_develop-and-deploy-plugins-in-rhdh
   Topics:
   - Name: Develop and deploy dynamic plugins in Red Hat Developer Hub
     File: master
-    WebpageID: develop-and-deploy-plugins-in-rhdh
+    WebpageID: develop_and_deploy_dynamic_plugins_in_red_hat_developer_hub
 - Name: Helm Chart Configuration Reference
   Dir: configure_helm-chart-config-reference
   Topics:
   - Name: Helm Chart configuration reference
     File: master
-    WebpageID: helm-chart-config-reference
+    WebpageID: helm_chart_configuration_reference
 - Name: Install RHDH in air-gapped environment
   Dir: install_installing-rhdh-in-an-air-gapped-environment
   Topics:
   - Name: Installing Red Hat Developer Hub in an air-gapped environment
     File: master
-    WebpageID: installing-rhdh-in-an-air-gapped-environment
+    WebpageID: installing_red_hat_developer_hub_in_an_air-gapped_environment
 - Name: Install RHDH on AKS
   Dir: install_installing-rhdh-on-aks
   Topics:
   - Name: Installing Red Hat Developer Hub on Microsoft Azure Kubernetes Service (AKS)
     File: master
-    WebpageID: installing-rhdh-on-aks
+    WebpageID: installing_red_hat_developer_hub_on_microsoft_azure_kubernetes_service_aks
 - Name: Install RHDH on EKS
   Dir: install_installing-rhdh-on-eks
   Topics:
   - Name: Installing Red Hat Developer Hub on Amazon Elastic Kubernetes Service (EKS)
     File: master
-    WebpageID: installing-rhdh-on-eks
+    WebpageID: installing_red_hat_developer_hub_on_amazon_elastic_kubernetes_service_eks
 - Name: Install RHDH on GKE
   Dir: install_installing-rhdh-on-gke
   Topics:
   - Name: Installing Red Hat Developer Hub on Google Kubernetes Engine (GKE)
     File: master
-    WebpageID: installing-rhdh-on-gke
+    WebpageID: installing_red_hat_developer_hub_on_google_kubernetes_engine_gke
 - Name: Install RHDH on OCP
   Dir: install_installing-rhdh-on-ocp
   Topics:
   - Name: Installing Red Hat Developer Hub on OpenShift Container Platform
     File: master
-    WebpageID: installing-rhdh-on-ocp
+    WebpageID: installing_red_hat_developer_hub_on_openshift_container_platform
 - Name: Installing RHDH on OSD GCP
   Dir: install_installing-rhdh-on-osd-on-gcp
   Topics:
   - Name: Installing Red Hat Developer Hub on OpenShift Dedicated on Google Cloud
     File: master
-    WebpageID: installing-rhdh-on-osd-on-gcp
+    WebpageID: installing_red_hat_developer_hub_on_openshift_dedicated_on_google_cloud
 - Name: Integrating with Git Provider
   Dir: integrate_integrating-rhdh-with-your-git-provider
   Topics:
   - Name: Integrating Red Hat Developer Hub with your Git provider
     File: master
-    WebpageID: integrating-rhdh-with-your-git-provider
+    WebpageID: integrating_red_hat_developer_hub_with_your_git_provider
 - Name: Manage and consume technical documentation within Red Hat Developer Hub
   Dir: develop_manage-and-consume-technical-documentation-within-rhdh
   Topics:
   - Name: Manage and consume technical documentation within Red Hat Developer Hub
     File: master
-    WebpageID: manage-and-consume-technical-documentation-within-rhdh
+    WebpageID: manage_and_consume_technical_documentation_within_red_hat_developer_hub
 - Name: Interacting with Model Context Protocol tools for Red Hat Developer Hub
   Dir: integrate_interacting-with-model-context-protocol-tools-for-rhdh
   Topics:
   - Name: Interacting with Model Context Protocol tools for Red Hat Developer Hub
     File: master
-    WebpageID: interacting-with-model-context-protocol-tools-for-rhdh
+    WebpageID: interacting_with_model_context_protocol_tools_for_red_hat_developer_hub
 - Name: Monitoring and Logging
   Dir: observability_monitoring-and-logging
   Topics:
   - Name: Monitoring and logging
     File: master
-    WebpageID: monitoring-and-logging
+    WebpageID: monitoring_and_logging
 - Name: Navigate RHDH on your first day
   Dir: get-started_navigate-rhdh-on-your-first-day
   Topics:
   - Name: Navigate Red Hat Developer Hub on your first day
     File: master
-    WebpageID: navigate-rhdh-on-your-first-day
+    WebpageID: navigate_red_hat_developer_hub_on_your_first_day
 - Name: Accelerate AI development with OpenShift AI Connector for Red Hat Developer Hub
   Dir: integrate_accelerating-ai-development-with-openshift-ai-connector-for-rhdh
   Topics:
   - Name: Accelerate AI development with OpenShift AI Connector for Red Hat Developer Hub
     File: master
-    WebpageID: accelerating-ai-development-with-openshift-ai-connector-for-rhdh
+    WebpageID: accelerate_ai_development_with_openshift_ai_connector_for_red_hat_developer_hub
 - Name: Orchestrator in Red Hat Developer Hub
   Dir: extend_orchestrator-in-rhdh
   Topics:
   - Name: Orchestrator in Red Hat Developer Hub
     File: master
-    WebpageID: orchestrator-in-rhdh
+    WebpageID: orchestrator_in_red_hat_developer_hub
 - Name: Configure Plugins
   Dir: extend_configuring-dynamic-plugins
   Topics:
   - Name: Configuring dynamic plugins
     File: master
-    WebpageID: configuring-dynamic-plugins
+    WebpageID: configuring_dynamic_plugins
 - Name: Installing Plugins in RHDH
   Dir: extend_installing-and-viewing-plugins-in-rhdh
   Topics:
   - Name: Installing and viewing plugins in Red Hat Developer Hub
     File: master
-    WebpageID: installing-and-viewing-plugins-in-rhdh
+    WebpageID: installing_and_viewing_plugins_in_red_hat_developer_hub
 - Name: Dynamic Plugin Reference
   Dir: extend_dynamic-plugins-reference
   Topics:
   - Name: Dynamic plugins reference
     File: master
-    WebpageID: dynamic-plugins-reference
+    WebpageID: dynamic_plugins_reference
 - Name: Using Dynamic Plugins
   Dir: extend_using-dynamic-plugins-in-rhdh
   Topics:
   - Name: Using dynamic plugins in Red Hat Developer Hub
     File: master
-    WebpageID: using-dynamic-plugins-in-rhdh
+    WebpageID: using_dynamic_plugins_in_red_hat_developer_hub
 - Name: Release Notes
   Dir: release-notes
   Topics:
   - Name: Red Hat Developer Hub release notes
     File: master
-    WebpageID: release-notes-rhdh
+    WebpageID: red_hat_developer_hub_release_notes
 - Name: Evaluate project health using Scorecards
   Dir: observability_evaluate-project-health-using-scorecards
   Topics:
   - Name: Evaluate project health using Scorecards
     File: master
-    WebpageID: evaluate-project-health-using-scorecards
+    WebpageID: evaluate_project_health_using_scorecards
 - Name: Setting up and configuring your first Red Hat Developer Hub instance
   Dir: get-started_setting-up-and-configuring-your-first-red-hat-developer-hub-instance
   Topics:
   - Name: Setting up and configuring your first Red Hat Developer Hub instance
     File: master
-    WebpageID: setting-up-and-configuring-your-first-red-hat-developer-hub-instance
+    WebpageID: setting_up_and_configuring_your_first_red_hat_developer_hub_instance
 - Name: Streamline software development and management in Red Hat Developer Hub
   Dir: develop_streamline-software-development-and-management-in-rhdh
   Topics:
   - Name: Streamline software development and management in Red Hat Developer Hub
     File: master
-    WebpageID: streamline-software-development-and-management-in-rhdh
+    WebpageID: streamline_software_development_and_management_in_red_hat_developer_hub
 - Name: Techdocs
   Dir: configure_techdocs-for-rhdh
   Topics:
   - Name: TechDocs for Red Hat Developer Hub
     File: master
-    WebpageID: techdocs-for-rhdh
+    WebpageID: techdocs_for_red_hat_developer_hub
 - Name: Telemetry
   Dir: observability_telemetry-data-collection-and-analysis
   Topics:
   - Name: Telemetry data collection and analysis
     File: master
-    WebpageID: telemetry-data-collection-and-analysis
+    WebpageID: telemetry_data_collection_and_analysis
 - Name: Upgrading Red Hat Developer Hub
   Dir: upgrade_upgrade-rhdh
   Topics:
   - Name: Upgrading Red Hat Developer Hub
     File: master
-    WebpageID: upgrade-rhdh
+    WebpageID: upgrading_red_hat_developer_hub
