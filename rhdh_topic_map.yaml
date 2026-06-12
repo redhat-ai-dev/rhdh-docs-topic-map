@@ -43,11 +43,11 @@ Topics:
     File: master
     WebpageID: adoption-insights-in-rhdh
 - Name: Additional Capabilities
-  Dir: additional_title-additional-rhdh-capabilities
+  Dir: explore_preview-of-emerging-capabilities
   Topics:
   - Name: Explore preview of emerging and supplemental capabilities
     File: master
-    WebpageID: title-additional-rhdh-capabilities
+    WebpageID: preview-of-emerging-capabilities
 - Name: Audit Log
   Dir: observability_audit-logs-in-rhdh
   Topics:
@@ -78,6 +78,12 @@ Topics:
   - Name: Customizing Red Hat Developer Hub
     File: master
     WebpageID: customizing-rhdh
+- Name: Diagnostic Data Collection
+  Dir: observe_diagnostic-data-collection
+  Topics:
+  - Name: Collect diagnostic data to streamline support resolution
+    File: master
+    WebpageID: diagnostic-data-collection
 - Name: Developer Lightspeed
   Dir: integrate_interacting-with-developer-lightspeed-for-rhdh
   Topics:
